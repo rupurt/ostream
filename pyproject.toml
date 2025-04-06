@@ -20,6 +20,9 @@ classifiers = [
 ]
 dependencies = [
     "obstore >=0.5.0",
+    "pydantic >=2.5.0",
+    "pydantic-settings >=2.2.1",
+    "PyYAML >=6.0.0",
 ]
 
 [project.urls]
